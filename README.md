@@ -5,37 +5,31 @@
 <p>&nbsp;</p>
 I'm a DevOps Engineer with 2.5+ years of experience in automating and streamlining IT operations. My passion lies in building resilient, scalable, secure and efficient infrastructure. 
 
-## 🔧 Tech Stack
+## 🔧 My Tech Stack
 
-### Cloud Services
-- <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="20" height="20" alt="AWS"> Amazon Web Services
-- <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="20" height="20" alt="GCP"> Google Cloud Platform
-- <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="20" height="20" alt="Azure"> Microsoft Azure
-
-### Automation
-- <img src="https://img.icons8.com/color/48/000000/ansible.png" width="20" height="20" alt="Ansible"> Ansible: Infrastructure Automation
-- <img src="https://img.icons8.com/color/48/000000/terraform.png" width="20" height="20" alt="Terraform"> Terraform: Infrastructure as Code
-
-### Containers & Orchestration
-- <img src="https://img.icons8.com/color/48/000000/docker.png" width="20" height="20" alt="Docker"> Docker
-- <img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="20" height="20" alt="Kubernetes"> Kubernetes: Container Orchestration
-
-### CI/CD
-- <img src="https://img.icons8.com/color/48/000000/jenkins.png" width="20" height="20" alt="Jenkins"> Jenkins: Continuous Integration
-- <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="20" height="20" alt="GitHub Actions"> GitHub Actions: CI/CD Workflows
-
-### Monitoring & Logging
-- <img width="20" height="17" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" alt="Prometheus" title="Prometheus"/> Prometheus: Monitoring and Alerting
-- <img src="https://img.icons8.com/color/48/000000/grafana.png" width="20" height="20" alt="Grafana"> Grafana: Visualization and Dashboards
-
-### Scripting & Programming
-- <img src="https://img.icons8.com/color/48/000000/bash.png" width="20" height="20" alt="Bash"> Bash: Shell Scripting
-- <img src="https://img.icons8.com/color/48/000000/python.png" width="20" height="20" alt="Python"> Python: Automation and Scripting
-
-### Databases
-- <img src="https://img.icons8.com/color/48/000000/mysql.png" width="20" height="20" alt="MySQL"> MySQL: Relational Database
-- <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="20" height="20" alt="MongoDB"> MongoDB: NoSQL Database
-
+<p>
+  <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="30" height="30"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/dusk/64/000000/docker.png" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/50/000000/kubernetes.png" width="30" height="30"/>
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/ansible.png" width="30" height="30" alt="Ansible">
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" width="30" height="30" alt="Terraform">
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" width="30" height="30" alt="Jenkins">
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" width="30" height="30" alt="GitHub Actions">
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/bash.png" width="30" height="30" alt="Bash">
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="30" height="30" alt="Python">
+  &nbsp;&nbsp;
+  <img width="30" height="30" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" alt="Prometheus" title="Prometheus">
+  <img src="https://img.icons8.com/color/48/000000/grafana.png" width="30" height="30" alt="Grafana">
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" width="30" height="30" alt="MySQL">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="30" height="30" alt="MongoDB">
+</p>
 
 ## 🚀 Projects
 Here are some of my featured projects:
@@ -52,7 +46,7 @@ I occasionally write about DevOps, automation, and cloud technologies on my [blo
 ## 🌱 I'm Currently Learning
 I'm always eager to learn new technologies and improve my skills. Currently, I'm focused on:
 
-- Learning Golang 
+- Learning Golang  <img src="https://img.icons8.com/color/48/000000/golang.png" width="20" height="20"/>
 - Enhancing my cloud security knowledge
 
 ## 🌎 Let's connect
