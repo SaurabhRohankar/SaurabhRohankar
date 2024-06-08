@@ -3,7 +3,7 @@
 </div>
 
 <p>&nbsp;</p>
-I'm a DevOps Engineer with 2.5+ years of experience in automating and streamlining IT operations. My passion lies in building resilient, scalable, secure and efficient infrastructure. 
+I'm a DevOps Engineer with 3+ years of experience in automating and streamlining IT operations. My passion lies in building resilient, scalable, secure and efficient infrastructure. 
 
 ## 🔧 My Tech Stack
 
